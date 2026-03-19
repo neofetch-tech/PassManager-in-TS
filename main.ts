@@ -1,4 +1,3 @@
-import Anthropic from "@anthropic-ai/sdk";
 import * as readline from "readline";
 import * as fs from "fs";
 import * as crypto from "crypto";
